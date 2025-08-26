@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Deluxe Room",
+    "description": "Spacious room with balcony and mountain view.",
+    "price": 2000,
+    "image": "/assets/images/deluxe.jpg"
+  },
+  {
+    "name": "Family Cottage",
+    "description": "Includes kitchen, perfect for families.",
+    "price": 3500,
+    "image": "/assets/images/family.jpg"
+  }
+]
