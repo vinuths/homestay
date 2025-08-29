@@ -420,7 +420,7 @@ const Home = () => {
         </Footer>
 
         <FloatingWhatsApp
-          phoneNumber="+919876543210"  // Replace with your number
+          phoneNumber="91+9743880882"  // Replace with your number
           accountName="My Homestay"
           chatMessage="Hi there! 👋 How can we help you?"
           statusMessage="Online"
